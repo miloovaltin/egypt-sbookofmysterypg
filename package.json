@@ -1,0 +1,16 @@
+{
+"name": "egypt'sbookofmysterypg",
+"theme": "egypt's book of mystery pg",
+"version": "6.8.3",
+"description": "egypt's book of mystery pg สมัครเว็บสล็อตเว็บตรง คนเล่นเยอะ รับโบนัสเครดิตฟรี",
+"keywords": [
+"egypt's book of mystery pg",
+"egypt's book of mystery pg เครดิตฟรี",
+"egypt's book of mystery pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/egypt'sbookofmysterypg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
